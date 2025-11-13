@@ -1,0 +1,21 @@
+{
+  "name": "project-scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "inquirer": "^8.2.7",
+    "motion": "^12.23.24",
+    "playwright": "^1.55.1",
+    "puppeteer": "^24.26.1",
+    "readline-sync": "^1.4.10",
+    "sharp": "^0.34.4"
+  }
+}
